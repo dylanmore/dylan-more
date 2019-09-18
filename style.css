@@ -1,0 +1,13 @@
+body { 
+text-align: center;
+max-width: 500px;
+margin: auto;
+background-color: #8B0000;
+color: #FFFF99;
+font-family: Impact;
+align-items: center;
+}
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
